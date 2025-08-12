@@ -25,6 +25,4 @@ The aim of this report is to:
 ##  Contact
 For questions or collaboration opportunities, feel free to open an issue on this repository or reach out directly via GitHub.
 
----
 
-> **Note:** This report is intended for educational and informational purposes. Always verify security procedures in your organization and follow established protocols before applying any recommendations.
