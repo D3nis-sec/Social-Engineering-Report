@@ -7,7 +7,7 @@ This repository contains an in-depth research report on **social engineering att
 - **Baiting**
 
 ##  Report File
-- [Social_engineering_report.md`](Social_engineering_report.md) – An extensive, human-written report detailing how each attack works, notable real-world case studies, their organizational impact, and practical prevention strategies.
+- [Social_engineering_Report.md`](Social_engineering_Report.md) – An extensive, human-written report detailing how each attack works, notable real-world case studies, their organizational impact, and practical prevention strategies.
 
 ## Purpose
 The aim of this report is to:
